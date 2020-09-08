@@ -1,0 +1,143 @@
+{
+  "main": {
+    "name": "Ankit Salian",
+    "occupation": "FullStack Developer && SDE @JP Morgan",
+    "description": " Able to effectively self-manage during independent projects, as well as collaborate as part of a  productive team",
+    "image": "ankit.jpg",
+    "bio": "My name is Ankit, I'm a Full Stack ReactJS Developer. Currently I'm working at JP Morgan. ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "ankitsalian9@gmail.com",
+    "phone": "+91 9869808279",
+    "address": {
+      "street": "Ghaghara-29, Second Floor, Anushakti Nagar, BARC Colony, Trombay.",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip": "400094"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://docs.google.com/document/d/1K67I7ALbw66QPerTl0qa8flYVfEbF32aX-dolQjukU0/edit",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/ankit.salian1",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ankit-salian-173945107/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ankit_salian",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/AnkitSalian",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Technology and Framework I have worked on",
+    "education": [
+      {
+        "school": "Yadavrao Tasgaonkar Institute of Engineering & Technology",
+        "degree": "Bachelor of Engineering (Electronics)",
+        "graduated": "June 2015",
+        "description": "Scored 71.70% in final semester and first class in all semesters"
+      }
+    ],
+    "work": [
+      {
+        "company": "JP Morgan",
+        "title": "SDE",
+        "years": "April 2020 - Present",
+        "description": "Building Web and REST applications"
+      },
+      {
+        "company": "Assesshub",
+        "title": "Software Engineer",
+        "years": "May 2019 - April 2020",
+        "description": "Building web scrappers and frontend dashboard for Education assessment"
+      },
+      {
+        "company": "TCS",
+        "title": "System Engineer",
+        "years": "February 2015 - April 2019",
+        "description": "Building backend applications and handling server management"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "Nodejs",
+        "level": "85%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "Java",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "85%"
+      },
+      {
+        "name": "Javascript",
+        "level": "75%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Admin Dashboard",
+        "description": "Application has two parts viz backend and frontend. Backend is build in Node.js with a  Posgres database and used Express.js for routing. Frontend is build on React.js. Application is used to track  status of the students enrolled in the exam, top and bottom performers and provided the results graphically  using FusionCharts with React.js"
+      },
+      {
+        "title": "ECommerse Website",
+        "description": "Application is currently in progress, using React.js to build the entire application. It has  been integrated with firebase, redux and stripe API. Firebase is used for google authentication and storing the  list of users who signed up. Redux is used for better state management. Application starts with the category  options and browse on individual category and user may add products to the cart and proceed with checkout. Stripe API is used for payment, currently mentioned a fake credit card through which payment can be made in  website. This application is up and running in Heroku."
+      },
+      {
+        "title": "Proctor WebRTC",
+        "description": "Used React.js to build and integrated with WebRTC and  RecordRTC and the inbuild Socket.IO channel provided by WebRTC. Here proctor means the moderator who  will create the video stream channel for the rest of the students to join. Every time when a student join his  video stream will be added in Proctors dashboard, so he or she moderates how the student is performing for the test."
+      },
+      {
+        "title": "ESign",
+        "description": "A REST application build using Spring MVC to access services exposed by NSDL to consume ESign  webservice. The entire projects can be split into two parts viz, generating OTP for a valid aadhar number and  creating the signed document against it"
+      },
+      {
+        "title": "PGS",
+        "description": "A REST application build using Node.js to create a Payment Gateway System, here we are giving access to  users to pay there loan amount either one of the two vendors viz, Billdesk or Paytm."
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Ankit is quick learner.we worked on same projects he is technical skills help us to deliver project smoothly as his work attitude towards handling work is very positive.",
+        "user": "Priyanka Amrutkar"
+      }
+    ]
+  }
+}
